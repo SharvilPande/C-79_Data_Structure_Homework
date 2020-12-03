@@ -1,0 +1,51 @@
+#my_nav_bar{
+    background-color: black;
+}
+
+#Menu{
+    background-image: url(slices.jpg);
+    
+}
+
+#menu_button{
+    margin-top: 5%;
+    margin-left: 350px;
+    background-color: rgb(247, 179, 53);
+    border: rgb(9, 218, 61);
+    border-style: ridge;
+    border-radius: 1px;
+    width: 200px;
+    font-size: larger;
+}
+
+#options{
+    color: whitesmoke;
+    display: none;
+  }
+
+#move{
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+#Add{
+    background-image: url(pizza_2.jpg);
+}
+
+#add_button{
+    margin-left: 20%;
+    background-color: rgb(236, 111, 9);
+    border: rgb(240, 5, 5);
+    border-style: ridge;
+    border-radius: 1px;
+    width: 200px;
+    font-size: larger; 
+    margin-top: 5%;
+    padding: 2.5%;
+}
+
+#display_addmenu {
+    color: whitesmoke;
+    margin-left: 20%;
+}
+
